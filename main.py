@@ -8,5 +8,5 @@ def print_hello(name):
 
 
 if __name__ == '__main__':
-    print_hello('print_hi! PyCharm')
+    print_hello('Hello, PyCharm!')
 
